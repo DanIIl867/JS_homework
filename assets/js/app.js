@@ -2,15 +2,12 @@ let a;
 let b;
 let result;
 let operator;
-let pi;
+let pi = 3.14;
 
 
 a = prompt('R', '');
 b = prompt('h', '');
 operator = prompt('operator', '');
-pi = 3, 14
-
-
 
 switch (operator) {
    case '*':
