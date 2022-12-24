@@ -2,7 +2,7 @@ let a;
 let b;
 let result;
 let operator;
-let pi = 3.14;
+let pi = 3.14159;
 
 
 a = prompt('R', '');
